@@ -1,0 +1,13 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(36, 36, 36);
+  color: aliceblue;
+  padding: 40px;
+}
+.lazy{
+  
+  text-align: center;
+}
+tr:hover{
+  cursor: pointer;
+}
